@@ -65,3 +65,5 @@ Fully responsive design (Desktop & Mobile)
 Clean Material Design interface
 
 Reusable and maintainable React components
+
+Author Developed by*Najeh Elfadlee
